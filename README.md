@@ -10,7 +10,7 @@ The notebook demonstrates a complete pipeline: loading data, text preprocessing,
 
 ## 📓 Contents
 - Notebook: `NLTK-Sentiment-Analysis.ipynb`  
-- Dataset(s):  `amazon sentiment analysis dataset`
+- Dataset(s):  `amazon sentiment analysis dataset` available on `https://raw.githubusercontent.com/pycaret/pycaret/master/datasets/amazon.csv`
 -
 
 ## 🧰 Requirements
